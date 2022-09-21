@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 10vh;
+  text-align: center;
+  background-color: rgb(10, 10, 187);
+  color: #fff;
+  font-family: sans-serif;
+  margin:  10px;
+}
+.container a {
+  color: #fff;
+  margin-left: 15px;
+}
+.text {
+  color: red;
+  margin-left: 15px;
+}
+.text a{
+    color: red;
+}
+h1 {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 10px;
+  padding: 2px;
+}
+img {
+  margin-left: 15px;
+}
+p{
+    margin: 15px;
+    text-align: justify;
+}
+hr{
+    margin: 0 15px;
+}
+.foot{
+    height: 10vh;
+    text-align: center;
+    background-color: rgb(10, 10, 187);
+    color: #fff;
+    font-family: sans-serif;
+    margin:  10px ;
+    
+  
+}
+.foot a{
+    color: #fff;
+}
